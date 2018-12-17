@@ -1,3 +1,5 @@
+*Product created by Peter M.J. Herman*
+
 # EMODnet-Biology-Harbour-invasives
 Use of EMODNET Biology Data for invasive species policies. What can we learn?
 
